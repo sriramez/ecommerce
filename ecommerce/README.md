@@ -9,4 +9,3 @@ localhost:8080/h2-console/ to open sql console
 
 http://localhost:8080/swagger-ui.html to access swagger ui
 
-sample commit
